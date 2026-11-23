@@ -22,7 +22,7 @@ The entire application lives inside a single `index.html` file with no external 
 
 ### Online
 Open the deployed page directly in your browser:
-https://CYBR-011.github.io/PLV-BSA-Study-Hub/
+
 
 ### Offline
 1. Download `index.html` from this repository (or click **Code > Download ZIP** and extract it).
